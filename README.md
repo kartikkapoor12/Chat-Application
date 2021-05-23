@@ -23,4 +23,5 @@ This is a react based real time Chat Application which uses chatengine.io Hooks.
 6. Rename room names.
 
 Clone it and enjoy !!!
+---
 Do give it a star.
