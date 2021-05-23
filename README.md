@@ -3,7 +3,7 @@
 This is a react based real time Chat Application which uses chatengine.io Hooks.
 
 ## Credentials
-  > Visit : kkfam.netlify.com  
+  > To try visit : https://kkfam.netlify.app/ 
   > Username : admin  
   > Password : admin
 
