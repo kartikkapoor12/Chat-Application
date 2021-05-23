@@ -1,6 +1,4 @@
-Visit: https://kkfam.netlify.app/
-usernam:admin
-password:admin 
+Visit: https://kkfam.netlify.app/            Usernam:admin         Password:admin 
 
 # Getting Started with Create React App
 
