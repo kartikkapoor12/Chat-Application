@@ -3,14 +3,12 @@
 This is a react based real time Chat Application which uses chatengine.io Hooks.
 
 ## Credentials
-visit : kkfam.netlify.com
-Username : admin
-Password : admin 
+  Visit : kkfam.netlify.com  Username : admin  Password : admin
 
 ## Setup
 
 1. You just need to clone the repository.
-2. Add your backend code int the app.js file for that make use of https://chatengine.io/ which will going to provide you backend API for the project.
+2. Add your backend code to the app.js file for that make use of https://chatengine.io/ which will going to provide you backend API for the project.
 3. Add users to the backend itself.
 
 ## Features
@@ -22,7 +20,5 @@ Password : admin
 5. Admin can also remove users.
 6. Rename room names.
 
-
-
 Clone it and enjoy !!!
-Do give a star.
+Do give it a star.
