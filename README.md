@@ -22,6 +22,5 @@ This is a react based real time Chat Application which uses chatengine.io Hooks.
 5. Admin can also remove users.
 6. Rename room names.
 
-Clone it and enjoy !!!
----
+Clone it and enjoy !!!    
 Do give it a star.
